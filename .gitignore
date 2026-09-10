@@ -1,0 +1,6 @@
+**/.godot/
+build/
+templates/
+tools/godot/
+dist/*.wasm.gz
+__pycache__/
